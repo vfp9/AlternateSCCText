@@ -1,4 +1,4 @@
-# Alternate SCCText
+# SCCText 的高级版本
 **Improved source code control to text program for use with Visual FoxPro's IDE.**
 
 Project Manager: [Jürgen Wondzinski](https://github.com/Woody-Soft), aka "wOOdy"
